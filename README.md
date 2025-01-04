@@ -12,7 +12,7 @@ I am a data enthusiast and an avid learner, pursuing my master's in Big Data Ana
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=tavish7&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-stats-git-master-tavish.vercel.app/api?username=tavish7&count_private=true&include_all_commits=true&hide_border=true&theme=radical)
+![](https://github-readme-stats-git-master-tavish.vercel.app/api?username=tavish7&count_private=true&include_all_commits=true&hide_border=true&theme=radical)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tavish7&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tavish7&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
